@@ -1,0 +1,18 @@
+.App{
+	text-align: center;
+}
+
+*{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.nav{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 15px 0;
+	background-color: yellow;
+	color: #111;
+	font-size: 30px
+}
